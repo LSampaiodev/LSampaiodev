@@ -25,7 +25,7 @@ Desenvolvedor de sistemas com experiência em várias linguagens e frameworks, f
 ---
 
 ### 🚀 **Projetos Recentes**
-- [Syncrol](https://github.com/LSampaiodev/Syncrol): Projeto de sincronização e gerenciamento de dados.
+- [Syncrol](https://github.com/LSampaiodev/Syncrol): Projeto de controle de validades e gerenciamento de estoque.
 - [Calculadora IMC](https://github.com/LSampaiodev/calculator_imc): Calculadora para calcular o IMC com Flutter.
 - [App de Consumo de API](https://github.com/LSampaiodev/app_consumo_api): Projeto em Flutter para consumir APIs.
 - [Gerenciamento de Estudos](https://github.com/LSampaiodev/study_for_me): Projeto para gerenciar estudos de linguagens de programação usando MongoDB.
