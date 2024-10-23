@@ -1,6 +1,6 @@
 # Lucas Oliveira Sampaio
 
-![Profile views](https://gpvc.arturio.dev/LSampaiodev)
+![Profile views](https://profile-counter.glitch.me/LSampaiodev/count.svg)
 
 ### Desenvolvedor Full Stack
 
