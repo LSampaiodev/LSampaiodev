@@ -10,7 +10,7 @@ Desenvolvedor de sistemas com experiência em várias linguagens e frameworks, f
 
 ### 📊 **GitHub Stats**
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?LSampaiodev&show_icons=true&theme=radical)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSampaiodev&show_icons=true&theme=radical)
 
 ---
 
