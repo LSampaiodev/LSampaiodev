@@ -1,6 +1,6 @@
 # Lucas Oliveira Sampaio 👨‍💻
 
-![Profile views](https://profile-counter.glitch.me/LSampaiodev/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=LSampaiodev&color=blue)
 
 ### Desenvolvedor Full Stack | Sistemas e Integrações
 
