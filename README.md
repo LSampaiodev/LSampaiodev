@@ -20,9 +20,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIP Paulista**
 
 **Linguagens & Frameworks**
 - JavaScript | Node.js
-- PHP
+- React | Typescript.js
 - Flutter
-- HTML | CSS
 
 **Banco de Dados**
 - MongoDB
