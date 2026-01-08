@@ -1,63 +1,57 @@
-# Lucas Oliveira Sampaio 👨‍💻
+<h4 align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=LSampaiodev&color=blue)
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="500"/>
 
-### Desenvolvedor Full Stack | Sistemas e Integrações
+<hr>
 
-Sou desenvolvedor de sistemas com foco em **desenvolvimento Full Stack**, integração de sistemas e construção de soluções eficientes. Tenho experiência com projetos acadêmicos, voluntários e corporativos, sempre buscando escrever código limpo, escalável e com impacto real no dia a dia das pessoas.
+</h4>
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIP Paulista** e sou formado como **Técnico em Desenvolvimento de Sistemas** pela **Etec Bento Quirino**.
+## 👨‍💻 Sobre mim
+
+Sou **Desenvolvedor Full Stack**, com experiência em **desenvolvimento web e mobile**, integração de **APIs REST**, bancos de dados **SQL e NoSQL** e atuação em **ambiente corporativo**.  
+Atualmente trabalho como **Assistente de Sistemas**, apoiando sistemas internos, análise de processos e melhorias contínuas.
+
+🎯 Interesses: Desenvolvimento Full Stack, Frontend, Backend, Integrações e Sistemas Corporativos  
+📍 Campinas – SP, Brasil  
+🌍 Aberto a oportunidades remotas e internacionais
 
 ---
 
-## 📊 GitHub Stats
+## 🔗 Conecte-se comigo
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSampaiodev&show_icons=true&theme=radical)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-26a48b207/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LSampaiodev)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasoliveirasampaio55@outlook.com)
 
 ---
 
-## 🛠️ Tecnologias
+## 🧰 Tecnologias & Ferramentas
 
-**Linguagens & Frameworks**
-- JavaScript | Node.js
-- React | Typescript.js
-- Flutter
+**Frontend**
+- React
+- Flutter | ReactNative
+
+**Backend**
+- Node.js
+- Java
 
 **Banco de Dados**
-- MongoDB
 - MySQL
+- MongoDB
+- Oracle
 
-**Ferramentas & Conceitos**
-- Git & GitHub
+**Outros**
 - APIs REST
-- Lógica de Programação
-- Metodologias Ágeis (Scrum / Kanban)
+- Git & GitHub
+- Scrum, Kanban
+- Jira, Trello
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📊 Sobre meu GitHub
 
-- **[Syncrol+](https://github.com/LSampaiodev/Syncrol)**  
-  Sistema de controle de estoque e validade desenvolvido em Flutter e MongoDB, focado em redução de perdas e aumento de eficiência operacional.
-
-- **[Calculadora de IMC](https://github.com/LSampaiodev/calculator_imc)**  
-  Aplicação mobile em Flutter para cálculo de IMC com interface simples e intuitiva.
-
-- **[Consumo de API](https://github.com/LSampaiodev/app_consumo_api)**  
-  Projeto em Flutter demonstrando consumo e exibição de dados via API REST.
-
-- **[Study For Me](https://github.com/LSampaiodev/study_for_me)**  
-  Plataforma para gerenciamento de estudos de linguagens de programação utilizando MongoDB.
-
----
-
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-dev/)
-- 📧 [Email](mailto:lucasoliveirasampaio55@outlook.com)
-
----
-
-## ⚡ Sobre mim
-
-Tenho facilidade para aprender novas tecnologias, gosto de resolver problemas e entender como sistemas funcionam de ponta a ponta. Estou sempre buscando evoluir tecnicamente e contribuir de forma positiva em times de tecnologia.
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSampaiodev&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LSampaiodev&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LSampaiodev&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LSampaiodev&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LSampaiodev&theme=tokyonight&utcOffset=-3)
