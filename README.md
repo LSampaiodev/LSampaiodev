@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="900"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="800"/>
 </p>
-
-
 </h4>
 
 ## 👨‍💻 Sobre mim
@@ -21,29 +19,6 @@ Atualmente trabalho como **Assistente de Sistemas**, apoiando sistemas internos,
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-26a48b207/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LSampaiodev)
 [![Outlook Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasoliveirasampaio55@outlook.com)
-
----
-
-## 🧰 Tecnologias & Ferramentas
-
-**Frontend**
-- React
-- Flutter | ReactNative
-
-**Backend**
-- Node.js
-- Java
-
-**Banco de Dados**
-- MySQL
-- MongoDB
-- Oracle
-
-**Outros**
-- APIs REST
-- Git & GitHub
-- Scrum, Kanban
-- Jira, Trello
 
 ---
 
