@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3M5Znl2eW83amkwbWVrbHM4Z25rNjdmYXl6eTY2ZTc4MG9uN2lhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1C8bHHJturSx2/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXEzMXVja2RwYm41d3czdmI4MWt1Z2I1MXdsOXRmODE4dzB3aHQxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R5dspTNJBVL51hiSN7/giphy.gif" width="700"/>
 </p>
 
 ## 🚀 Apresentação do Meu Perfil Tech
