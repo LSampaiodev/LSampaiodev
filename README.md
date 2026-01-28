@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXEzMXVja2RwYm41d3czdmI4MWt1Z2I1MXdsOXRmODE4dzB3aHQxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R5dspTNJBVL51hiSN7/giphy.gif" width="700"/>
-</p>
+//<p align="center">
+  //<img src="" width="700"/>
+//</p>
 
 ## 🚀 Apresentação do Meu Perfil Tech
 
