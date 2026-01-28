@@ -1,8 +1,4 @@
 
-//<p align="center">
-  //<img src="" width="700"/>
-//</p>
-
 ## 🚀 Apresentação do Meu Perfil Tech
 
 Olá! 👋 Sou **Lucas Oliveira**, Desenvolvedor **Full Stack**, com experiência em desenvolvimento **web e mobile**, integrações de **APIs REST** e bancos de dados **SQL e NoSQL**.  
