@@ -48,10 +48,10 @@ Desenvolvo aplicações utilizando:
 [![E-mail](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucasoliveirasampaio55@outlook.com)
 
 ## 📊 Estatísticas do GitHub
-
+<div align=center>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSampaiodev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LSampaiodev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LSampaiodev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LSampaiodev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LSampaiodev&theme=tokyonight&utcOffset=-3)
-
+</div>
