@@ -47,7 +47,7 @@ Desenvolvo aplicações utilizando:
 [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LSampaiodev)
 [![E-mail](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucasoliveirasampaio55@outlook.com)
 
-<div align="left">
+
 ## 📊 Estatísticas do GitHub
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSampaiodev&theme=tokyonight)
