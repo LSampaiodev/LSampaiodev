@@ -54,3 +54,4 @@ Desenvolvo aplicações utilizando:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LSampaiodev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LSampaiodev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LSampaiodev&theme=tokyonight&utcOffset=-3)
+</div>
