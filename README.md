@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Lucas%20Oliveira&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlign=50&descAlignY=55&color=0:22c55e,50:0ea5e9,100:0f172a" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Lucas%20Oliveira&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20-%20Web%20and%20Mobile&descAlign=50&descAlignY=55&color=0:22c55e,50:0ea5e9,100:0f172a" />
 
 ### Full Stack Developer | Web & Mobile | API-Driven Solutions
 
