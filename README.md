@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Lucas%20Oliveira&fontAlign=50&fontAlignY=35&desc=Software%Engineer%20-%20Web%20and%20Mobile&descAlign=50&descAlignY=55&color=0:22c55e,50:0ea5e9,100:0f172a" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Lucas%20Oliveira&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20-%20Web%20and%20Mobile&descAlign=50&descAlignY=55&color=0:22c55e,50:0ea5e9,100:0f172a" />
 
 ### Software Engineer | Web & Mobile | API-Driven Solutions
 
